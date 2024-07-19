@@ -15,3 +15,6 @@ mdriver
 # Archives
 *.tar.gz
 *.tgz
+
+# ccls
+.ccls-cache/
